@@ -1,0 +1,8 @@
+OK
+Irrev 72 Reversibles 30
+
+La cantidad de EFMs es: 376
+La media es: 35.340425531914896
+La varianza es: 175.49581258487999
+La desviacion tipica es: 13.247483254749937
+La mediana es: 41.0
